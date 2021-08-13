@@ -7,7 +7,9 @@
 - 🌱  Learning more about technologies that go into building Full Stack Applications.
 
 🛠 Tech Stack
+
 💻   JavaScript | ES6 
+
 🌐   HTML | CSS | ReactJS | Redux 
 
 
